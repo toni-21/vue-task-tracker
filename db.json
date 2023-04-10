@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors appointment",
+      "day": "March 1st at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Piano lessons",
+      "day": "March 3rd at 5:00pm",
+      "reminder": false
+    },
+    {
+      "id": 25945,
+      "text": "Andrew Tate Podcast",
+      "day": "21st of April at 1am",
+      "reminder": true
+    }
+  ]
+}
