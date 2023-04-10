@@ -1,8 +1,18 @@
-# vue-crash-course
+# vue-task-tracker
+
+## Description
+```
+This is a project created using Vue.js. Features include task creation, deleting, updating and an about page.
+```
 
 ## Project setup
 ```
 npm install
+```
+
+## Mock Server setup
+```
+npm run mock
 ```
 
 ### Compiles and hot-reloads for development
